@@ -1,0 +1,25 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Runtime artifacts for this assignment
+results/
+tmp/
+jobs.db
+*.log
+
+# Local/generated input data (can be regenerated via generate_data.py)
+data/
+
